@@ -1,0 +1,1 @@
+Check our Dashboard here: http://health-id-app.herokuapp.com/
