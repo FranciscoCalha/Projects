@@ -1,0 +1,113 @@
+,Category,calories,total_fat,fiber,protein,carbohydrate,sugars
+Arugula,Vegetables,25,0.7,1.6,2.58,3.65,2.05
+Bamboo shoots,Vegetables,27,0.3,2.2,2.6,5.2,3.0
+Lettuce,Vegetables,15,0.2,1.3,1.36,2.87,0.78
+Cabbage,Vegetables,25,0.1,2.5,1.28,5.8,3.2
+Cauliflower,Vegetables,25,0.3,2.0,1.92,4.97,1.91
+Leeks,Vegetables,61,0.3,1.8,1.5,14.15,3.9
+Broccoli,Vegetables,34,0.4,2.6,2.82,6.64,1.7
+Eggplant,Vegetables,25,0.2,3.0,0.98,5.88,3.53
+Brussels sprouts,Vegetables,43,0.3,3.8,3.38,8.95,2.2
+Asparagus,Vegetables,20,0.1,2.1,2.2,3.88,1.88
+Onions,Vegetables,40,0.1,1.7,1.1,9.34,4.24
+Sweet Onions,Vegetables,32,0.1,0.9,0.8,7.55,5.02
+Garlic,Vegetables,149,0.5,2.1,6.36,33.06,1.0
+Jalapeno Peppers,Vegetables,29,0.4,2.8,0.91,6.5,4.12
+Spinach,Vegetables,23,0.4,2.2,2.86,3.63,0.42
+Carrots,Vegetables,41,0.2,2.8,0.93,9.58,4.74
+Green Peas,Vegetables,81,0.4,5.7,5.42,14.45,5.67
+Ginger root,Vegetables,80,0.8,2.0,1.82,17.77,1.7
+Corn,Vegetables,86,1.4,2.0,3.27,18.7,6.26
+Pumpkin,Vegetables,26,0.1,0.5,1.0,6.5,2.76
+Mushrooms,Vegetables,22,0.3,1.0,3.09,3.26,1.98
+Apples,Fruits,52,0.2,2.4,0.26,13.81,10.39
+Apricots,Fruits,48,0.4,2.0,1.4,11.12,9.24
+Avocados,Fruits,160,15.0,6.7,2.0,8.53,0.66
+Tomatoes,Fruits,18,0.2,1.2,0.88,3.89,2.63
+Bananas,Fruits,89,0.3,2.6,1.09,22.84,12.23
+Blueberries,Fruits,57,0.3,2.4,0.74,14.49,9.96
+Blackberries,Fruits,43,0.5,5.3,1.39,9.61,4.88
+Cherries,Fruits,63,0.2,2.1,1.06,16.01,12.82
+Coconut,Fruits,354,33.0,9.0,3.33,15.23,6.23
+Figs,Fruits,74,0.3,2.9,0.75,19.18,16.26
+Grapes,Fruits,57,0.5,3.9,0.81,13.93,0.0
+Plums,Fruits,46,0.3,1.4,0.7,11.42,9.92
+Kiwi,Fruits,61,0.5,3.0,1.14,14.66,8.99
+Lemons,Fruits,29,0.3,2.8,1.1,9.32,2.5
+Limes,Fruits,30,0.2,2.8,0.7,10.54,1.69
+Mango,Fruits,60,0.4,1.6,0.82,14.98,13.66
+Watermelon,Fruits,30,0.2,0.4,0.61,7.55,6.2
+Orange,Fruits,49,0.2,2.2,0.91,12.54,8.5
+Papaya,Fruits,43,0.3,1.7,0.47,10.82,7.82
+Peach,Fruits,39,0.3,1.5,0.91,9.54,8.39
+Pear,Fruits,63,0.2,3.1,0.39,15.01,9.69
+Pineapple,Fruits,50,0.1,1.4,0.54,13.12,9.85
+Strawberry,Fruits,32,0.3,2.0,0.67,7.68,4.89
+Tangerine,Fruits,53,0.3,1.8,0.81,13.34,10.58
+Melon,Fruits,34,0.2,0.9,0.84,8.16,7.86
+Nectarine,Fruits,44,0.3,1.7,1.06,10.55,7.89
+Salmon,Fish,156,5.6,0.0,26.48,0.0,0.0
+Cod,Fish,105,0.9,0.0,22.83,0.0,0.0
+Herring,Fish,203,12.0,0.0,23.03,0.0,0.0
+Mackerel,Fish,262,18.0,0.0,23.85,0.0,0.0
+Perch,Fish,96,1.9,0.0,18.51,0.0,0.0
+Trout,Fish,150,5.8,0.0,22.92,0.0,0.0
+Bass,Fish,124,3.0,0.0,22.73,0.0,0.0
+Tuna,Fish,184,6.3,0.0,29.91,0.0,0.0
+Roe,Fish,204,8.2,0.0,28.62,1.92,0.0
+Chicken,Meat,148,3.4,0.0,29.5,0.0,0.0
+Turkey,Meat,203,10.0,0.0,27.37,0.0,0.0
+Lamb,Meat,283,20.0,0.0,24.75,0.0,0.0
+Bacon,Meat,309,30.0,2.6,11.69,5.31,0.0
+Beef,Meat,177,6.1,0.0,28.41,0.0,0.0
+Duck,Meat,201,11.0,0.0,23.48,0.0,0.0
+Rabbit,Meat,173,3.5,0.0,33.02,0.0,0.0
+Goat,Meat,143,3.0,0.0,27.1,0.0,0.0
+Fried Egg,Meat,196,15.0,0.0,13.61,0.83,0.4
+Boiled Egg,Meat,155,11.0,0.0,12.58,1.12,1.12
+Shrimp,Seafood,99,0.3,0.0,23.98,0.2,0.0
+Oyster,Seafood,159,4.0,0.0,28.81,0.0,0.0
+Mussel,Seafood,172,4.5,0.0,23.8,7.39,0.0
+Clam,Seafood,148,2.0,0.0,25.55,5.13,0.0
+Lobster,Seafood,89,0.9,0.0,19.0,0.0,0.0
+Scallop,Seafood,111,0.8,0.0,20.54,5.41,0.0
+Crayfish,Seafood,82,1.2,0.0,16.77,0.0,0.0
+Octopus,Seafood,164,2.1,0.0,29.82,4.4,0.0
+Cuttlefish,Seafood,158,1.4,0.0,32.48,1.64,0.0
+Squid,Seafood,175,7.5,0.0,17.94,7.79,0.0
+Almond Milk,Dairy,15,1.1,0.0,0.59,0.58,0.0
+Soy Milk,Dairy,54,1.8,0.6,3.27,6.28,3.99
+Rice Milk,Dairy,47,1.0,0.3,0.28,9.17,5.28
+Whole Milk,Dairy,62,3.3,0.0,3.21,4.88,4.88
+Mozzarella Cheese,Dairy,300,22.0,0.0,22.17,2.19,1.03
+Cheddar Cheese,Dairy,404,33.0,0.0,22.87,3.09,0.48
+Brie Cheese,Dairy,334,28.0,0.0,20.75,0.45,0.45
+Gouda Cheese,Dairy,356,27.0,0.0,24.94,2.22,2.22
+Parmesan Cheese,Dairy,415,27.0,0.0,37.86,3.41,0.9
+Greek Plain Yogurt,Dairy,97,5.0,0.0,9.0,3.98,4.0
+Lowfat Greek Plain Yogurt,Dairy,73,1.9,0.0,9.95,3.94,3.56
+Avocado Oil,Oils and Fat,884,100.0,0.0,0.0,0.0,0.0
+Canola Oil,Oils and Fat,884,100.0,0.0,0.0,0.0,0.0
+Coconut Oil,Oils and Fat,892,99.0,0.0,0.0,0.0,0.0
+Olive Oil,Oils and Fat,884,100.0,0.0,0.0,0.0,0.0
+Soybean Oil,Oils and Fat,884,100.0,0.0,0.0,0.0,0.0
+Sunflower Oil,Oils and Fat,884,100.0,0.0,0.0,0.0,0.0
+Vegetable Oil,Oils and Fat,862,100.0,0.0,0.0,0.0,0.0
+Butter with Salt,Oils and Fat,717,81.0,0.0,0.85,0.06,0.06
+Margarine,Oils and Fat,424,48.0,0.0,0.2,0.86,0.0
+Butter without Salt,Oils and Fat,717,81.0,0.0,0.85,0.06,0.06
+Amaranth,Grain,102,1.6,2.1,3.8,18.69,0.0
+Barley,Grain,352,1.2,15.6,9.91,77.72,0.8
+Bulgur,Grain,83,0.2,4.5,3.08,18.58,0.1
+Wheat,Grain,132,0.8,4.3,5.71,27.6,3.07
+Oats,Grain,389,6.9,10.6,16.89,66.27,0.0
+Quinoa,Grain,120,1.9,2.8,4.4,21.3,0.87
+Wild Rice,Grain,101,0.3,1.8,3.99,21.34,0.73
+White Rice,Grain,130,0.2,0.3,2.38,28.59,0.0
+Brown Rice,Grain,112,0.8,1.8,2.32,23.51,0.0
+Buckwheat,Grain,343,3.4,10.0,13.25,71.5,0.0
+White Bread,Grain,238,2.2,9.2,10.66,43.91,5.0
+Multi-grain Bread,Grain,265,4.2,7.4,13.36,43.34,6.39
+Pasta,Grain,149,1.7,3.9,5.99,30.07,0.75
+Potatoes,Grain,77,0.1,2.1,2.05,17.49,0.82
+Corn Flakes,Grain,357,0.9,2.7,5.9,88.01,7.84
